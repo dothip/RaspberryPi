@@ -5,4 +5,4 @@
 #==================================
  
 #	RaspberryPi
-Contains the projects that I am currently pursuing on my RaspberryPi B+ Model running Raspbian 
+Contains the projects that I am currently pursuing on my RaspberryPi B+ Model running Raspbian.
