@@ -1,7 +1,5 @@
 #==================================
 #    Alan Hodgson
-#    @alanhodgson
-#    Email: ajhodgson423@gmail.com
 #==================================
  
 #	RaspberryPi
